@@ -1,1 +1,1 @@
-# stats199_fall23
+# This project is focusing on conducting a fundamental time-series analysis, particularly in ETS, ARIMA, and GARCH modeling, with introducting their conceptual frameworks. It is useful to start with understanding the basic time-series analysis.
