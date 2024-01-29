@@ -1372,9 +1372,9 @@ plot(sigma(garchforecast_7),
 
 This plot shows the prediction of volatility increase in the next 22 days. The predictive model expects higher variability or risk in the returns of the financial instrument at the beginning of 2023, indicating an expectation of increased price fluctuations or uncertainty in the market.
 
-## Backtsting
+## Backtesting
 
-Backtesting is a process to access he forecasting accuracy of a time-dependent statistical model. It is time series version of cross-validation.
+Backtesting is a process to access the forecasting accuracy of a time-dependent statistical model. It is time series version of cross-validation.
 
 Two concepts related to the backtesting:
 
